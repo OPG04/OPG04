@@ -23,11 +23,10 @@
 </p>
 
 ---
+![LeetCode user rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=rating&url=https://leetcode-badge.vercel.app/api/user/OPG_04&color=FFA116&logo=leetcode&logoColor=white)
+![Codeforces user rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=rating&url=https://codeforces-badge.vercel.app/api/user/OPG04&color=1F8ACB&logo=codeforces&logoColor=white)
+![CodeChef user rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CodeChef&query=rating&url=https://codechef-badge.vercel.app/api/user/haikyuu04&color=5B4638&logo=codechef&logoColor=white)
 
-## 🏆 Competitive Programming  
-![LeetCode Stats](https://leetcard.jacoblin.cool/OPG_04?theme=dark&ext=contest)
-![Codeforces](https://cp-logo.vercel.app/codeforces/OPG04)
-![CodeChef](https://cp-logo.vercel.app/codechef/haikyuu04)
 
 ---
 
