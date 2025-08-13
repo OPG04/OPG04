@@ -1,32 +1,34 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20OPG04%20🚀&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
+<!-- Profile Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20OPG%20🚀&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 ## 👨‍💻 About Me  
 💡 Passionate about **AI, Competitive Programming, and Backend Development**  
 🌱 Currently learning **System Design** and **Machine Learning**  
-🎯 Goal: Land a **high-stipend big tech/quant role** 
+🎯 Goal: Land a **high-stipend big tech/quant role**  
 
 ---
 
 ## 📈 GitHub Activity Graph  
-[![OPG's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OPG04&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![OPG's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OPG04&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OPG04&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPG04&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
 ---
-![LeetCode user rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=rating&url=https://leetcode-badge.vercel.app/api/user/OPG_04&color=FFA116&logo=leetcode&logoColor=white)
-![Codeforces user rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=rating&url=https://codeforces-badge.vercel.app/api/user/OPG04&color=1F8ACB&logo=codeforces&logoColor=white)
-![CodeChef user rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CodeChef&query=rating&url=https://codechef-badge.vercel.app/api/user/haikyuu04&color=5B4638&logo=codechef&logoColor=white)
 
+## 🏆 Competitive Programming  
+
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=rating&url=https://leetcode-badge.vercel.app/api/user/OPG_04&color=FFA116&logo=leetcode&logoColor=white)](https://leetcode.com/OPG_04/)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=rating&url=https://codeforces-badge.vercel.app/api/user/OPG04&color=1F8ACB&logo=codeforces&logoColor=white)](https://codeforces.com/profile/OPG04)
+[![CodeChef](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CodeChef&query=rating&url=https://codechef-badge.vercel.app/api/user/haikyuu04&color=5B4638&logo=codechef&logoColor=white)](https://www.codechef.com/users/haikyuu04)
 
 ---
 
@@ -37,9 +39,10 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-pasupuleti-11829b311/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/OPG_04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/OPG_04/)
 
 ---
 
+<!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
