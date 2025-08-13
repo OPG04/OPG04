@@ -4,8 +4,7 @@
 ## 👨‍💻 About Me  
 💡 Passionate about **AI, Competitive Programming, and Backend Development**  
 🌱 Currently learning **System Design** and **Machine Learning**  
-🎯 Goal: Land a **high-stipend big tech/quant role**  
-⚡ Fun fact: I debug faster after coffee ☕
+🎯 Goal: Land a **high-stipend big tech/quant role** 
 
 ---
 
