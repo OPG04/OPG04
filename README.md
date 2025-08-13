@@ -25,10 +25,10 @@
 ---
 
 ## 🏆 Competitive Programming  
+[![LeetCode profile](https://img.shields.io/badge/LeetCode-OPG__04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/OPG_04/)
+[![Codeforces profile](https://img.shields.io/badge/Codeforces-OPG04-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/OPG04)
+[![CodeChef profile](https://img.shields.io/badge/CodeChef-haikyuu04-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/haikyuu04)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/OPG%5F04?theme=dark&ext=contest)](https://leetcode.com/OPG_04/)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=OPG04)](https://codeforces.com/profile/OPG04)
-[![CodeChef Stats](./codechef-card.svg)](https://www.codechef.com/users/haikyuu04)
 
 
 
