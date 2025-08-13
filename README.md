@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20OPG%20🚀&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Sanjay%20🚀&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 ## 👨‍💻 About Me  
 💡 Passionate about **AI, Competitive Programming, and Backend Development**  
