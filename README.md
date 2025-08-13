@@ -28,7 +28,8 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/OPG%5F04?theme=dark&ext=contest)](https://leetcode.com/OPG_04/)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=OPG04)](https://codeforces.com/profile/OPG04)
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/haikyuu04?v=1)](https://www.codechef.com/users/haikyuu04)
+[![CodeChef Stats](./codechef-card.svg)](https://www.codechef.com/users/haikyuu04)
+
 
 
 ---
