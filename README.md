@@ -9,17 +9,17 @@
 ---
 
 ## 📈 GitHub Activity Graph  
-[![OPG's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![OPG's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OPG04&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OPG04&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OPG04&theme=radical" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPG04&layout=compact&theme=radical" />
 </p>
 
 ---
